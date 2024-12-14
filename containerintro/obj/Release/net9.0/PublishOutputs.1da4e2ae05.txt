@@ -1,0 +1,5 @@
+/home/scoriani/repos/dotnetconf2024/containerintro/bin/Release/net9.0/publish/intro
+/home/scoriani/repos/dotnetconf2024/containerintro/bin/Release/net9.0/publish/intro.dll
+/home/scoriani/repos/dotnetconf2024/containerintro/bin/Release/net9.0/publish/intro.deps.json
+/home/scoriani/repos/dotnetconf2024/containerintro/bin/Release/net9.0/publish/intro.runtimeconfig.json
+/home/scoriani/repos/dotnetconf2024/containerintro/bin/Release/net9.0/publish/intro.pdb

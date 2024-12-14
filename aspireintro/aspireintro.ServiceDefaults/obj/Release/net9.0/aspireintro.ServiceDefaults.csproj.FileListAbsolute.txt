@@ -1,0 +1,12 @@
+/home/scoriani/repos/dotnetconf2024/aspireintro/aspireintro.ServiceDefaults/bin/Release/net9.0/aspireintro.ServiceDefaults.deps.json
+/home/scoriani/repos/dotnetconf2024/aspireintro/aspireintro.ServiceDefaults/bin/Release/net9.0/aspireintro.ServiceDefaults.dll
+/home/scoriani/repos/dotnetconf2024/aspireintro/aspireintro.ServiceDefaults/bin/Release/net9.0/aspireintro.ServiceDefaults.pdb
+/home/scoriani/repos/dotnetconf2024/aspireintro/aspireintro.ServiceDefaults/obj/Release/net9.0/aspireintro.ServiceDefaults.csproj.AssemblyReference.cache
+/home/scoriani/repos/dotnetconf2024/aspireintro/aspireintro.ServiceDefaults/obj/Release/net9.0/aspireintro.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+/home/scoriani/repos/dotnetconf2024/aspireintro/aspireintro.ServiceDefaults/obj/Release/net9.0/aspireintro.ServiceDefaults.AssemblyInfoInputs.cache
+/home/scoriani/repos/dotnetconf2024/aspireintro/aspireintro.ServiceDefaults/obj/Release/net9.0/aspireintro.ServiceDefaults.AssemblyInfo.cs
+/home/scoriani/repos/dotnetconf2024/aspireintro/aspireintro.ServiceDefaults/obj/Release/net9.0/aspireintro.ServiceDefaults.csproj.CoreCompileInputs.cache
+/home/scoriani/repos/dotnetconf2024/aspireintro/aspireintro.ServiceDefaults/obj/Release/net9.0/aspireintro.ServiceDefaults.dll
+/home/scoriani/repos/dotnetconf2024/aspireintro/aspireintro.ServiceDefaults/obj/Release/net9.0/refint/aspireintro.ServiceDefaults.dll
+/home/scoriani/repos/dotnetconf2024/aspireintro/aspireintro.ServiceDefaults/obj/Release/net9.0/aspireintro.ServiceDefaults.pdb
+/home/scoriani/repos/dotnetconf2024/aspireintro/aspireintro.ServiceDefaults/obj/Release/net9.0/ref/aspireintro.ServiceDefaults.dll

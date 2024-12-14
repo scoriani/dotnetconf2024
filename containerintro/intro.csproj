@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ContainerRepository>myimage</ContainerRepository>
+    <!-- <ContainerFamily>alpine</ContainerFamily> -->
+    <!-- <ContainerBaseImage>mcr.microsoft.com/dotnet/runtime:9.0.0-azurelinux3.0-distroless-arm64v8</ContainerBaseImage> -->
+    <Nullable>enable</Nullable>
+    <!-- <PublishAot>true</PublishAot> -->
+    <IsPublishable>true</IsPublishable>
+    <EnableSdkContainerSupport>true</EnableSdkContainerSupport>
+    <InvariantGlobalization>true</InvariantGlobalization>
+    <ContainerUser>root</ContainerUser>
+  </PropertyGroup>
+
+</Project>
