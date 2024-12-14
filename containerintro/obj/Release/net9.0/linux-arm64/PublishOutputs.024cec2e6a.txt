@@ -1,0 +1,1 @@
+/home/scoriani/repos/dotnetconf2024/intro/out/intro

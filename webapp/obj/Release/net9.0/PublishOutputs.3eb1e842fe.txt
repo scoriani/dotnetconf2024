@@ -1,0 +1,7 @@
+/home/scoriani/repos/dotnetconf2024/webapp/webapp/published/webapp
+/home/scoriani/repos/dotnetconf2024/webapp/webapp/published/appsettings.Development.json
+/home/scoriani/repos/dotnetconf2024/webapp/webapp/published/appsettings.json
+/home/scoriani/repos/dotnetconf2024/webapp/webapp/published/webapp.dll
+/home/scoriani/repos/dotnetconf2024/webapp/webapp/published/webapp.deps.json
+/home/scoriani/repos/dotnetconf2024/webapp/webapp/published/webapp.runtimeconfig.json
+/home/scoriani/repos/dotnetconf2024/webapp/webapp/published/webapp.pdb
