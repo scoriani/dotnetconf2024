@@ -1,1 +1,0 @@
-/home/scoriani/repos/dotnetconf2024/intro/bin/Release/net9.0/linux-arm64/publish/intro
