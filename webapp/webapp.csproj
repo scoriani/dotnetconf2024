@@ -4,6 +4,10 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <IsPublishable>true</IsPublishable>
-    <ContainerRepository>scoriani/webapp:v1</ContainerRepository>
+    <EnableSdkContainerSupport>true</EnableSdkContainerSupport>
+    <ContainerRepository>scoriani/webapp</ContainerRepository>
+    <RuntimeIdentifier>linux-x64</RuntimeIdentifier>
+    <PublishAot>true</PublishAot>
+    <StripSymbols>false</StripSymbols>
   </PropertyGroup>
 </Project>
